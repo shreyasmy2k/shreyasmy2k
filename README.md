@@ -1,16 +1,17 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=40&color=25B1FF&width=435&lines=Shreyas+M+Kaushik;Software+Engineer+%40+IHX)](https://git.io/typing-svg)
 
-<!--
-**shreyasmy2k/shreyasmy2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram][1.2]][1] &nbsp; &nbsp;  [![LinkedIn][2.2]][2]
 
-Here are some ideas to get you started:
+<!-- Icons -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[1.2]: https://github.com/shreyasY2k/shreyasY2k/blob/master/Instagram.png (insta icon without padding)
+[2.2]: https://github.com/shreyasY2k/shreyasY2k/blob/master/linkedin.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://instagram.com/shreyas_mathur_kaushik/
+[2]: https://www.linkedin.com/in/shreyas-m-k-b213771a4/
+
+[![Shreyas's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreyasmy2k&theme=dark)](https://git.io/streak-stats)
+
+![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyasmY2k&show_icons=true&theme=radical)
