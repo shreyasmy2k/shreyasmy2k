@@ -14,4 +14,4 @@
 
 [![Shreyas's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shreyasmy2k&theme=dark)](https://git.io/streak-stats)
 
-![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyasmY2k&show_icons=true&theme=radical)
+![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyasmY2k&show_icons=true&theme=dark)
